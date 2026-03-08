@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书自动发布"
+  short_description: "复用本地小红书发布器执行服务启动登录检查与预览发布流程"
+  default_prompt: "Use $xhs-auto-publisher to start the local Xiaohongshu publisher service, verify login, and run a preview publish flow."
